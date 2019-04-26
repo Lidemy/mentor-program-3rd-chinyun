@@ -12,7 +12,7 @@
 
 6. 對這次更動提交 commit -> **_`git commit -m “commit內容 ”`_**
 
-7. 上傳到 Github Repository -> **_`git push`_**
+7. 上傳到 Github Repository -> **_`git push --set-upstream origin weekx`_**
 
 8. 在 Github Repository 首頁按 **pull request**，若被 huli **merge** 表示已經完成，不然表示還有東西要修。 
 
